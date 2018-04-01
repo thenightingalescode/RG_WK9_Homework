@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab|Text+Me+One');
+
+
+
+h1,h2,h3,h4,h5{
+  font-family: 'Text Me One', sans-serif;
+}
+
+p{
+  font-family: 'Josefin Slab', serif;
+}
+
+#map {
+  width: 100%;
+  height: 400px;
+  background-color: grey;
+}
+#topCard{
+  width: 100%
+}
